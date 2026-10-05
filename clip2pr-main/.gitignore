@@ -1,0 +1,10 @@
+titan-board/
+.env
+__pycache__/
+.venv/
+work/
+*.webm
+!demo/*.mp4
+deck/template.pdf
+deck/*.png
+deck/*.pdf
